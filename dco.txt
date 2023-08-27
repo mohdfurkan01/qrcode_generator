@@ -1,0 +1,7 @@
+initialize npm init --y
+create index.js file
+Now initialize some dependencies
+
+npm i express ejs qrcode
+
+ejs------> Embaded javaScript template
